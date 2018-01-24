@@ -115,6 +115,7 @@ header .contenedor #nav-menu {
 }
 
 #div-body #contenedor-secundario .img {
+    padding-top: 30px;
     width: 50%;
     height: 40%;
     text-align: center;
@@ -122,7 +123,7 @@ header .contenedor #nav-menu {
 }
 
 #div-body #contenedor-secundario #img-left img:hover {
-    transform: rotate(10deg);
+    transform: rotate(5deg);
     box-shadow: 2px 2px #82c3a6;
 
 }
